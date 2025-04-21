@@ -2,9 +2,4 @@
 
 -usar timer (tirar sleep)
 
-
-
-
-https://github.com/user-attachments/assets/7b424542-bc20-4d4b-9e35-78231aa0f733
-
-
+-video: https://www.youtube.com/shorts/x5D3l_7dA5s
