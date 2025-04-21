@@ -2,4 +2,4 @@
 
 -usar timer (tirar sleep)
 
--video: https://www.youtube.com/shorts/x5D3l_7dA5s
+-video https://www.youtube.com/shorts/x5D3l_7dA5s
